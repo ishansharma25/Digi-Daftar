@@ -1,5 +1,3 @@
-# My React + Vite Homepage
-
 A beautiful and responsive homepage built with React and Vite.
 
 ## 🚀 Features
@@ -7,13 +5,13 @@ A beautiful and responsive homepage built with React and Vite.
 - Fast development with Vite
 - Modern UI with React
 - Responsive design
-- [Add more key features of your homepage]
+
 
 ## 🛠️ Technologies Used
 
 - React
 - Vite
-- [List any other major libraries or tools used]
+
 
 ## 📦 Installation
 
