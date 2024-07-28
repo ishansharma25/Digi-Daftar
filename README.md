@@ -2,6 +2,10 @@
 
 A comprehensive e-office solution for Indore Municipal Corporation, integrating a responsive homepage, a robust task management system, and a municipal transparency chatbot to enhance productivity and citizen engagement.
 
+
+https://github.com/user-attachments/assets/639c58d1-02f6-49a9-9b8f-7d106cd75b63
+
+
 ## 📜 Components
 
 1. **Homepage**: A beautiful and responsive homepage built with React and Vite.
